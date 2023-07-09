@@ -9,3 +9,8 @@ O repositório está organizado da seguinte forma:
 - Cada desafio possui uma pasta separada, identificada pelo número do desafio.
 - Dentro de cada pasta, você encontrará os arquivos relacionados ao desafio.
 
+## Desafios
+
+- **Desafio 1**: Scrum: Analisando Cases de Sucesso
+- **Desafio 2**: Completando o Framework Scrum
+
