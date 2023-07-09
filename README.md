@@ -1,2 +1,11 @@
-# scrum_master_desafio
-Desafios da formação Scrum Master Certification da DIO
+# Desafios da Formação Scrum Master Certification
+
+Este repositório contém os desafios da Formação Scrum Master Certification oferecida pela DIO. Cada desafio corresponde a uma etapa do curso e tem como objetivo aplicar os conhecimentos adquiridos sobre Scrum e práticas ágeis.
+
+## Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+- Cada desafio possui uma pasta separada, identificada pelo número do desafio.
+- Dentro de cada pasta, você encontrará os arquivos relacionados ao desafio.
+
