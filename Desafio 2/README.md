@@ -11,4 +11,4 @@
 
 ### Resolução
 
-![Resolução](./Desafio de Projeto - SCRUM.jpg)
+![Resultado](./Desafio%20de%20Projeto%20-%20SCRUM.jpg)
